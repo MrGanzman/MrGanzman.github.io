@@ -1,0 +1,41 @@
+For P2: 
+E1 BOX:
+
+BOX_MCP DSID was incorrect.
+
+BOX_P1_P2 Operator 1+2 times no response
+BOX P1_P2 no starved commodities
+BOX P1_P2 auto and maintenance didnt respond but equipment status changed.
+
+BOX P3_P4 Transfer ID# didnt respond
+BOX P3_P4 auto and maintenance didnt switch on but status changed 
+BOX P3_P4 no starved commodities
+BOX P3_P4 Operator 1+2 times no response
+
+BOX P5_P6 DSID does not match
+BOX P5_P6 Operator Times no response	
+BOX P5_P6 Auto and Maintenence didnt switch on but status changed
+
+
+E2 BOX:
+BOX_MCP DSID was incorrect
+BOX_MCP Warnings only take values greater than 1.
+
+BOX_P1_P2 DSID was incorrect
+BOX_P1_P2 Warnings, PCB Values only take on values greater than 1.
+BOX_P1_P2 no starved commodities.
+
+BOX_P3_P4 Warnings, PCB Values only take on values greater than 1. PCM 1 goes to 1. But not from 1 to 0.
+BOX_P3_P4 no starved commodities.
+
+BOX_P5_P6 Warnings, PCB Values, and RobotCycle onle take values greater than 1. PCM 1 goes to 1. But never from 1 to 0.
+
+BOX_P5_P6 no starved commodities
+
+
+
+
+
+
+
+

@@ -58,8 +58,8 @@ jQuery(document).ready(function($) {
 	$('#time_countdown').countDown({
         
         targetDate: {
-             'day': 28,
-             'month': 5,
+             'day': 29,
+             'month': 4,
              'year': 2016,
              'hour': 9,
              'min': 0,
